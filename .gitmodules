@@ -1,0 +1,15 @@
+[submodule "PHAsset-Utility"]
+	path = PHAsset-Utility
+	url = https://github.com/zakkhoyt/PHAsset-Utility
+[submodule "FullScreenCollectionViewLineLayoutErrorExample"]
+	path = FullScreenCollectionViewLineLayoutErrorExample
+	url = https://github.com/wessmith/FullScreenCollectionViewLineLayoutErrorExample
+[submodule "Design-Patterns-In-Swift"]
+	path = Design-Patterns-In-Swift
+	url = https://github.com/ochococo/Design-Patterns-In-Swift
+[submodule "iOS-10-Sampler"]
+	path = iOS-10-Sampler
+	url = https://github.com/shu223/iOS-10-Sampler
+[submodule "example-package-playingcard"]
+	path = example-package-playingcard
+	url = https://github.com/apple/example-package-playingcard

@@ -1,0 +1,6 @@
+[submodule "Design-Patterns-In-Swift"]
+	path = Design-Patterns-In-Swift
+	url = https://github.com/ochococo/Design-Patterns-In-Swift.git
+[submodule "original-pro-design-patterns-in-swift"]
+	path = original-pro-design-patterns-in-swift
+	url = https://github.com/Apress/pro-design-patterns-in-swift

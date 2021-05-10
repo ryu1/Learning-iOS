@@ -1,0 +1,8 @@
+exclude:
+- '**Tests.swift'   # Ignore Swift files that end in "Tests"
+- '**/Carthage'   # Ignore Swift files under "Source/Carthage/"
+- '**/Pods'
+
+except:
+- parenthesis-whitespace
+- lower-camel-case
